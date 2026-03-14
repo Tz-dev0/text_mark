@@ -1,0 +1,20 @@
+name: text_mark
+description: Rich inline text styling for Flutter. Define your own [tags], support nesting, dynamic values, and a global theme — with zero dependencies.
+version: 1.0.0
+repository: https://github.com/Tz-dev0/text_mark
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis:
+
+license: MIT
